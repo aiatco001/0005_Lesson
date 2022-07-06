@@ -1,0 +1,28 @@
+p.p{
+	font: 13px/20px "Times New Roman";
+}
+p.pp{
+	font: bold 40px Arial;
+	color: red;
+	width: 300px;
+}
+p.ppp{
+	font: bold italic 40px Arial;
+	text-indent: 50px;
+	line-height: 60px;
+}
+p.a{
+text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+p.aa{
+text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+p.aaa{
+text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}

@@ -1,0 +1,23 @@
+p.p{
+font-family: "Arial";
+}
+p.pp{
+font-family: "Georgia";
+}
+p.ppp{
+font-family: "Verdana";
+}
+
+
+p.a{
+	   font-size: 30px;
+		line-height: 45px;
+		text-align: justify;
+		width: 700px;
+}
+p.s{
+		   font-size: 30px;
+			line-height: 1.5;
+			text-align: justify;
+			width: 700px;
+}
